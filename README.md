@@ -4,11 +4,19 @@
 
 [MonoGame](http://monogame.net) is an open source implementation of the Microsoft XNA 4.x Framework. 
 
-MonoGame Console - fork from [XNAGameConsole] (http://code.google.com/p/xnagameconsole/) with unicode & MonoGame support.
+MonoGame Console - terminal emulator ([XNAGameConsole](http://code.google.com/p/xnagameconsole/) fork) with full unicode & MonoGame support.
 
 ## Supported Platforms
 
 * Windows (OpenGL, DirectX)
+
+## Features
+* [Add your own commands](http://code.google.com/p/xnagameconsole/wiki/AddingCommands)
+* [Customizable Options](http://code.google.com/p/xnagameconsole/wiki/ConsoleOptions)
+* [Clipboard Support](http://code.google.com/p/xnagameconsole/wiki/ClipboardSupport)
+* [External Writing](http://code.google.com/p/xnagameconsole/wiki/WritingToTheConsole)
+* Command Auto-Complete
+* Command History 
 
 ## Quick Start
 
@@ -38,7 +46,6 @@ MonoGame Console - fork from [XNAGameConsole] (http://code.google.com/p/xnagamec
             });
 
 * Run game and press '~' (tilda) to open console
-
 
 ## License
 
