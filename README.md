@@ -20,7 +20,7 @@ MonoGame Console - terminal emulator ([XNAGameConsole](http://code.google.com/p/
 
 ## Quick Start
 
-* Include MonoGameConsole.dll to your project references
+* Include latest [MonoGameConsole.dll] (https://github.com/romanov/MonoGame-Console/releases)
 * Create XNB file with your SpriteFont or use default from repository "Content" folder
 * Add code below to your Initialize() logic
 
@@ -50,7 +50,4 @@ MonoGame Console - terminal emulator ([XNAGameConsole](http://code.google.com/p/
 ## License
 
 MonoGame Console is released under GNU GPL v3.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/romanov/monogame-console/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
