@@ -1,12 +1,6 @@
-﻿using System;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Windows.Forms;
-using Microsoft.Xna.Framework;
+﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using MonoGameConsole.Commands;
-using MonoGameConsole.KeyboardCapture;
 
 namespace MonoGameConsole
 {
