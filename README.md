@@ -1,6 +1,6 @@
 # MonoGame Console
 
-![monogameconsole-screenshot](http://s30.postimg.org/tqmwc9a8h/2013_12_27_21_11_11.png "Screenshot")
+![monogameconsole-screenshot](http://s28.postimg.org/gquhv868d/monoconsole.gif "Screenshot")
 
 [MonoGame](http://monogame.net) is an open source implementation of the Microsoft XNA 4.x Framework. 
 
