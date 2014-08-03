@@ -8,7 +8,7 @@ MonoGame Console - terminal emulator ([XNAGameConsole](http://code.google.com/p/
 
 ## Supported Platforms
 
-* Windows (OpenGL, DirectX)
+* Windows (DirectX)
 
 ## Features
 * [Add your own commands](http://code.google.com/p/xnagameconsole/wiki/AddingCommands)
