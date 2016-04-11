@@ -49,6 +49,8 @@ MonoGame Console - terminal emulator ([XNAGameConsole](http://code.google.com/p/
             });
 
 * Run game and press '~' (tilda) to open console
+* Once instantiated, the GameConsole class adds itself as a Service, which means you can get access to it with the following:
+```GameConsole console = (GameConsole) game.Services.GetService(typeof (GameConsole));```
 
 ## License
 
