@@ -1,5 +1,9 @@
 # MonoGame Console
 
+````
+PM> Install-Package MonoGame.Console.WindowsDX
+````
+
 ![monogameconsole-screenshot](http://s28.postimg.org/gquhv868d/monoconsole.gif "Screenshot")
 
 [MonoGame](http://monogame.net) is an open source implementation of the Microsoft XNA 4.x Framework. 
@@ -20,7 +24,6 @@ MonoGame Console - terminal emulator ([XNAGameConsole](http://code.google.com/p/
 
 ## Quick Start
 
-* Include the latest [MonoGameConsole.dll] (https://github.com/romanov/MonoGame-Console/releases)
 * Create a XNB file with your SpriteFont or use default from repository "Content" folder
 * Add a code below to your Initialize() logic
 
