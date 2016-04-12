@@ -25,7 +25,7 @@ MonoGame Console - a terminal emulator (forked from [XNAGameConsole](http://code
 ## Quick Start
 
 * Create a XNB file with your SpriteFont or use default from repository (or Nuget) "Content" folder
-* Add the code below to your Initialize() logic
+* Add the code below to your LoadContent() logic
 
             Services.AddService(typeof(SpriteBatch), spriteBatch);
 
