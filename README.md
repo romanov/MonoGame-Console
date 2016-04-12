@@ -8,7 +8,7 @@ PM> Install-Package MonoGame.Console.WindowsDX
 
 [MonoGame](http://monogame.net) is an open source implementation of the Microsoft XNA 4.x Framework. 
 
-MonoGame Console - a terminal emulator (forked from [XNAGameConsole](http://code.google.com/p/xnagameconsole/) by Andreas Grech ) with unicode & MonoGame support.
+MonoGame Console - a terminal emulator (forked from [XNAGameConsole](http://code.google.com/p/xnagameconsole/) by Andreas Grech) with unicode & MonoGame support.
 
 ## Supported Platforms
 
