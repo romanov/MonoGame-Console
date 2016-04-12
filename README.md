@@ -8,7 +8,7 @@ PM> Install-Package MonoGame.Console.WindowsDX
 
 [MonoGame](http://monogame.net) is an open source implementation of the Microsoft XNA 4.x Framework. 
 
-MonoGame Console - terminal emulator ([XNAGameConsole](http://code.google.com/p/xnagameconsole/) fork) with full unicode & MonoGame support.
+MonoGame Console - a terminal emulator (forked from [XNAGameConsole](http://code.google.com/p/xnagameconsole/) by Andreas Grech ) with unicode & MonoGame support.
 
 ## Supported Platforms
 
@@ -24,8 +24,8 @@ MonoGame Console - terminal emulator ([XNAGameConsole](http://code.google.com/p/
 
 ## Quick Start
 
-* Create a XNB file with your SpriteFont or use default from repository "Content" folder
-* Add a code below to your Initialize() logic
+* Create a XNB file with your SpriteFont or use default from repository (or Nuget) "Content" folder
+* Add the code below to your Initialize() logic
 
             Services.AddService(typeof(SpriteBatch), spriteBatch);
 
