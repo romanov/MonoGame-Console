@@ -138,7 +138,6 @@ namespace MonoGameConsole
             if (e.KeyValue == GameConsoleOptions.Options.ToggleKey)
             {
                 ToggleConsole();
-                isHandled = true;
             }
 
             switch (e.KeyValue)
