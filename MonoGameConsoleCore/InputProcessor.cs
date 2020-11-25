@@ -36,11 +36,12 @@ namespace MonoGameConsole
             Out = new List<OutputLine>();
             Buffer = new OutputLine("", OutputLineType.Command);
 
-            Form winGameWindow = GetGameWindow();
+            Form winGameWindow = (Form)Control.FromHandle(window.Handle);
             winGameWindow.KeyPress += form_KeyPress;
             winGameWindow.KeyDown += EventInput_KeyDown;
         }
 
+        [Obsolete]
         /// <summary>
         /// Force application to find current app window controls with System.Windows.Forms (Windows)
         /// </summary>
