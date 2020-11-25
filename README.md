@@ -4,7 +4,8 @@
 PM> Install-Package MonoGame.Console.WindowsDX
 ````
 
-![monogameconsole-screenshot](http://s28.postimg.org/gquhv868d/monoconsole.gif "Screenshot")
+
+![monogameconsole-screenshot](https://github.com/romanov/MonoGame-Console/blob/master/demo.gif "Screenshot")
 
 [MonoGame](http://monogame.net) is an open source implementation of the Microsoft XNA 4.x Framework. 
 
