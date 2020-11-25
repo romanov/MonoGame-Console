@@ -154,3 +154,5 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/packages/MonoGame.Framework.WindowsDX.3.5.1.1679
+/.vs
